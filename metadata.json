@@ -1,0 +1,6 @@
+{
+  "name": "STRIDE KICKS | متجر الأحذية الرياضية",
+  "description": "متجر متخصص في الأحذية الرياضية وأحذية الستريت وير الأصلية مع اختيار سريع للمقاس وطلب مباشر عبر السلة وواتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
